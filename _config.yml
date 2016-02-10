@@ -23,7 +23,7 @@ color:
     - '#87786F'
     - '#BEB2AC'
   brandStrength: 1
-  lightness: 1
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
 purpose: []
